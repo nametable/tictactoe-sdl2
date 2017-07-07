@@ -9,5 +9,4 @@ The script Make.sh will compile the game. I have not made a Makefile for it yet.
 Dependencies:
 
 g++           -on linux use "sudo apt install g++" to install
-
-libSDL2       -on linux use "sudo apt install libsdl2-dev" to install 
+libSDL2       -on linux use "sudo apt install libsdl2-dev" to install
