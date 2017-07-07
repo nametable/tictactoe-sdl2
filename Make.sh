@@ -1,2 +1,2 @@
 #!/bin/bash
-g++ -o ./bin/Debug/TicTacToe2 main.cpp -lSDL2
+g++ -o ./TicTacToe main.cpp -lSDL2
