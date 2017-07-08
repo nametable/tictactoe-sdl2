@@ -1,5 +1,6 @@
 # tictactoe-sdl2
 ![Alt text](/tictactoe-sdl2-screenshot.png?raw=true "Screenshot")
+
 A small TicTacToe game using SDL2
 
 I wanted to do an exercise to learn more about AI and decision making. I decided to make a simple TicTacToe game.
